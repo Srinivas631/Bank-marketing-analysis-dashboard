@@ -27,7 +27,7 @@ This project analyzes bank marketing campaign data to identify factors influenci
 
 ##  Dashboard Preview
 
-![Dashboard_1](https://github.com/user-attachments/assets/2014b02f-a542-4c82-9b7d-617174bc82b8)
+![Dashboard_1](https://github.com/user-attachments/assets/88d3b9dd-c695-4add-b58a-4ca536b00621)
 
 ![Dashboard_1](https://github.com/user-attachments/assets/139670c8-a583-481c-9856-6be391660e76)
 
