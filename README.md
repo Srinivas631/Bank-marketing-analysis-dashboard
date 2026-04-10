@@ -26,8 +26,10 @@ This project analyzes bank marketing campaign data to identify factors influenci
 * Increasing contact attempts beyond a limit reduces efficiency
 
 ##  Dashboard Preview
-![Dashboard](https://github.com/user-attachments/assets/49d77646-bb2f-433b-8d1b-7a36d9d1effc)
-![Dashboard_1 1](https://github.com/user-attachments/assets/29bdbf6b-9029-4d72-b416-23547a2810de)
+
+![Dashboard_1](https://github.com/user-attachments/assets/2014b02f-a542-4c82-9b7d-617174bc82b8)
+
+![Dashboard_1](https://github.com/user-attachments/assets/139670c8-a583-481c-9856-6be391660e76)
 
 
 ##  Dataset
